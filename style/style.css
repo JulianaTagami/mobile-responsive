@@ -263,6 +263,102 @@ body {
     border-radius: 8px;
 }
 
+.card2 h1 {
+    position: absolute;
+    width: 116px;
+    height: 22px;
+    left: 64px;
+    top: 16px;
+    font-family: var(--font-letter);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: #464646;
+}
+
+.card2 p {
+    position: absolute;
+    width: 103px;
+    height: 19px;
+    left: 88px;
+    top: 38px;
+    font-family: var(--font-letter);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: var(--font-color-subtitle);
+}
+
+.card2-img1 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 16px;
+    top: 20.5px;
+    border-radius: 16px;
+}
+
+.card2-img2 {
+    position: absolute;
+    width: 13.33px;
+    height: 16px;
+    left: 64.33px;
+    top: 40px;
+}
+
+.card2-img3 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    right: 16px;
+    top: 16px;
+}
+
+.card2-img4 {
+    position: absolute;
+    width: 328px;
+    height: 1px;
+    top: 69px;
+    background: #464646;
+    opacity: 0.1;
+}
+
+.card2 h2 {
+    position: absolute;
+    width: 127px;
+    height: 19px;
+    left: 16px;
+    top: 79px;
+    font-family: var(--font-letter);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: var(--font-color-title);
+}
+
+.card2-button {
+    position: absolute;
+    width: 296px;
+    height: 48px;
+    left: 16px;
+    top: 106px;
+    background: #4894FF;
+    box-shadow: 0px 4px 16px rgba(72, 148, 255, 0.16);
+    border-radius: 8px;
+    border: none;
+    color: #FFFFFF;
+}
+
+
 .card3 {
     position: absolute;
     width: 328px;
