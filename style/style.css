@@ -12,7 +12,8 @@ body {
     position: relative;
     width: 360px;
     height: 2402px;
-    background: var(--color-background);    
+    background: var(--color-background);
+    font-family: var(--font-letter);   
 }
 
 
@@ -132,8 +133,9 @@ body {
     top: 186px;
 }
 
-.card-1 {
+.card1 {
     position: absolute;
+    display: flex;
     width: 328px;
     height: 170px;
     left: 16px;
@@ -143,7 +145,114 @@ body {
     border-radius: 8px;
 }
 
-.card-2 {
+.card1 h1 {
+    position: absolute;
+    width: 94px;
+    height: 22px;
+    left: 64px;
+    top: 16px;
+    font-family: var(--font-letter);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: #464646;
+}
+
+.card1 p {
+    position: absolute;
+    width: 101px;
+    height: 19px;
+    left: 88px;
+    top: 38px;
+    font-family: var(--font-letter);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: #A3A3A3;
+}
+
+.card1-img1 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    left: 16px;
+    top: 20.5px;
+    border-radius: 16px;
+}
+
+.card1-img2 {
+    position: absolute;
+    width: 16px;
+    height: 10.67px;
+    left: 64px;
+    top: 42.67px;
+}
+
+.card1-img3 {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    right: 16px;
+    top: 16px;
+}
+
+.card1-img4 {
+    position: absolute;
+    width: 328px;
+    height: 1px;
+    top: 69px;
+    background: #464646;
+    opacity: 0.1;
+}
+
+.card1 h2 {
+    position: absolute;
+    width: 120px;
+    height: 19px;
+    left: 16px;
+    top: 79px;
+    font-family: var(--font-letter);
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 160%;
+    display: flex;
+    align-items: center;
+    color: var(--font-color-title);
+}
+
+.card1-button1 {
+    position: absolute;
+    width: 139px;
+    height: 48px;
+    left: 16px;
+    top: 106px;
+    background: #FFB050;
+    box-shadow: 0px 4px 16px rgba(255, 176, 80, 0.16);
+    border-radius: 8px;
+    border: #FFB050;
+    color: #FFFFFF;
+}
+
+.card1-button2 {
+    position: absolute;
+    box-sizing: border-box;
+    width: 139px;
+    height: 48px;
+    right: 16px;
+    top: 106px;
+    background: #FFFFFF;
+    border: 1px solid #ECECEC;
+    border-radius: 8px;
+}
+
+.card2 {
     position: absolute;
     width: 328px;
     height: 170px;
@@ -154,7 +263,7 @@ body {
     border-radius: 8px;
 }
 
-.card-3 {
+.card3 {
     position: absolute;
     width: 328px;
     height: 170px;
