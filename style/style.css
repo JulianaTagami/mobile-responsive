@@ -16,7 +16,6 @@ body {
     font-family: var(--font-letter);   
 }
 
-
 .nav {
     position: absolute;
     width: 360px;
@@ -199,6 +198,7 @@ body {
     height: 32px;
     right: 16px;
     top: 16px;
+    cursor: pointer;
 }
 
 .today-c1-img4 {
@@ -237,6 +237,7 @@ body {
     border-radius: 8px;
     border: #FFB050;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .today-c1-button2 {
@@ -249,6 +250,7 @@ body {
     background: #FFFFFF;
     border: 1px solid #ECECEC;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 .today-c2 {
@@ -317,6 +319,7 @@ body {
     height: 32px;
     right: 16px;
     top: 16px;
+    cursor: pointer;
 }
 
 .today-c2-img4 {
@@ -355,6 +358,7 @@ body {
     border-radius: 8px;
     border: none;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .today-c3 {
@@ -423,6 +427,7 @@ body {
     height: 32px;
     right: 16px;
     top: 16px;
+    cursor: pointer;
 }
 
 .today-c3-img4 {
@@ -461,6 +466,7 @@ body {
     border-radius: 8px;
     border: #FFB050;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .today-c3-button2 {
@@ -473,6 +479,7 @@ body {
     background: #FFFFFF;
     border: 1px solid #ECECEC;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 .nav-day2 {
@@ -560,6 +567,7 @@ body {
     height: 32px;
     right: 16px;
     top: 16px;
+    cursor: pointer;
 }
 
 .tmw-c1-img4 {
@@ -598,6 +606,7 @@ body {
     border-radius: 8px;
     border: none;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .tmw-c2 {
@@ -666,6 +675,7 @@ body {
     height: 32px;
     right: 16px;
     top: 16px;
+    cursor: pointer;
 }
 
 .tmw-c2-img4 {
@@ -704,6 +714,7 @@ body {
     border-radius: 8px;
     border: #FFB050;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .tmw-c2-button2 {
@@ -716,6 +727,7 @@ body {
     background: #FFFFFF;
     border: 1px solid #ECECEC;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 .tmw-c3 {
@@ -784,6 +796,7 @@ body {
     height: 32px;
     right: 16px;
     top: 16px;
+    cursor: pointer;
 }
 
 .tmw-c3-img4 {
@@ -822,6 +835,7 @@ body {
     border-radius: 8px;
     border: #FFB050;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .tmw-c3-button2 {
@@ -834,6 +848,7 @@ body {
     background: #FFFFFF;
     border: 1px solid #ECECEC;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 .tmw-c4 {
@@ -902,6 +917,7 @@ body {
     height: 32px;
     right: 16px;
     top: 16px;
+    cursor: pointer;
 }
 
 .tmw-c4-img4 {
@@ -940,6 +956,7 @@ body {
     border-radius: 8px;
     border: none;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .nav-day3 {
@@ -1027,6 +1044,7 @@ body {
     height: 32px;
     right: 16px;
     top: 16px;
+    cursor: pointer;
 }
 
 .wdd-c1-img4 {
@@ -1065,6 +1083,7 @@ body {
     border-radius: 8px;
     border: none;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .wdd-c2 {
@@ -1133,6 +1152,7 @@ body {
     height: 32px;
     right: 16px;
     top: 16px;
+    cursor: pointer;
 }
 
 .wdd-c2-img4 {
@@ -1171,6 +1191,7 @@ body {
     border-radius: 8px;
     border: #FFB050;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .wdd-c2-button2 {
@@ -1183,6 +1204,7 @@ body {
     background: #FFFFFF;
     border: 1px solid #ECECEC;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 .wdd-c3 {
@@ -1251,6 +1273,7 @@ body {
     height: 32px;
     right: 16px;
     top: 16px;
+    cursor: pointer;
 }
 
 .wdd-c3-img4 {
@@ -1289,6 +1312,7 @@ body {
     border-radius: 8px;
     border: #FFB050;
     color: #FFFFFF;
+    cursor: pointer;
 }
 
 .wdd-c3-button2 {
@@ -1301,6 +1325,7 @@ body {
     background: #FFFFFF;
     border: 1px solid #ECECEC;
     border-radius: 8px;
+    cursor: pointer;
 }
 
 .wdd-c4 {
@@ -1369,6 +1394,7 @@ body {
     height: 32px;
     right: 16px;
     top: 16px;
+    cursor: pointer;
 }
 
 .wdd-c4-img4 {
@@ -1407,4 +1433,5 @@ body {
     border-radius: 8px;
     border: none;
     color: #FFFFFF;
+    cursor: pointer;
 }
